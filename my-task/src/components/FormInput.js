@@ -1,10 +1,13 @@
 import React from "react";
+import Button from "./Button";
+import "../style/FormInput.css";
 
 class FormInput extends React.Component{
     render(){
         return(
             <>
-                FormInput Item
+                <input type="text"/>
+                <Button />
             </>
         )
     }

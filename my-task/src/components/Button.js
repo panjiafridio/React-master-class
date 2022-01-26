@@ -1,9 +1,11 @@
 import  React  from "react";
+import "../style/Button.css";
 
 const Button = () => {
     return (
         <>
-            Buttpn
+            <button className="button1">Edit</button>
+            <button className="button2">Delete</button>
         </>
     )
 }

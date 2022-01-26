@@ -1,0 +1,14 @@
+.button1, .button2{
+    padding: 10px 20px;
+    background-color: rgb(50, 216, 35);
+    border: none;
+    border-radius: 10px;
+    color: #ffffff;
+    cursor: pointer;
+    margin-left: 10px;
+    font-weight: bold;
+}
+.button2{
+    padding: 10px;
+    background-color: rgb(243, 47, 12);
+}
