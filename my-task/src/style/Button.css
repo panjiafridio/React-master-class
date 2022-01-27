@@ -1,6 +1,5 @@
-.button1, .button2{
+.btn{
     padding: 10px 20px;
-    background-color: rgb(50, 216, 35);
     border: none;
     border-radius: 10px;
     color: #ffffff;
@@ -8,7 +7,14 @@
     margin-left: 10px;
     font-weight: bold;
 }
-.button2{
+.btn-success{
+    background-color: rgb(50, 216, 35);
+}
+.btn-warning{
     padding: 10px;
     background-color: rgb(243, 47, 12);
+}
+.btn-add{
+    padding: 10px;
+    background-color: rgb(10, 66, 63);
 }

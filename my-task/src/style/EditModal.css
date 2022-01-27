@@ -1,0 +1,19 @@
+.modal-container{
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.4);
+}
+.modal-box{
+    background-color: #fff;
+    width: 70%;
+    margin: 15% auto;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.btn-container{
+    margin-top: 20px;
+}
